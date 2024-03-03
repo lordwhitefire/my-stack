@@ -11,6 +11,7 @@
     "typecheck": "tsc"
   },
   "dependencies": {
+    "@iconify/tailwind": "^0.1.4",
     "@remix-run/css-bundle": "^2.8.0",
     "@remix-run/node": "^2.8.0",
     "@remix-run/react": "^2.8.0",
@@ -20,6 +21,7 @@
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
+    "@iconify/json": "^2.2.188",
     "@remix-run/dev": "^2.8.0",
     "@types/react": "^18.2.20",
     "@types/react-dom": "^18.2.7",
@@ -31,6 +33,7 @@
     "eslint-plugin-jsx-a11y": "^6.7.1",
     "eslint-plugin-react": "^7.33.2",
     "eslint-plugin-react-hooks": "^4.6.0",
+    "tailwindcss": "^3.4.1",
     "typescript": "^5.1.6"
   },
   "engines": {
